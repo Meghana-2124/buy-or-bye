@@ -10,7 +10,7 @@ Buy or Bye is a simple AI-powered purchase decision assistant that helps users t
 
 ## 🎥 Demo
 
-**Demo video:** `PASTE_YOUR_DEMO_LINK_HERE`
+**Demo video:** `https://www.loom.com/share/149be4d701334eef9021cf69c96f4ce6`
 
 The demo shows the application taking a real purchase scenario, retrieving current web information, calculating a purchase verdict, and using Gemma to explain the result.
 
